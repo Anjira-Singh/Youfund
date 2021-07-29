@@ -1,6 +1,6 @@
-<!-- # ProjectOpenBank
+ # ProjectOpenBank
 
-python manage.py makemigrations (one time)
+<!-- python manage.py makemigrations (one time)
 
 ## Fresh Start
 
@@ -13,7 +13,7 @@ python manage.py shell
 
 python manage.py createsuperuser
 
-python manage.py runserver
+python manage.py runserver -->
  -->
 
 This uses open banking to increase account access and sharing of account information of users. it facilitate the process of switching from one bank's checking account service to another bank's. It help lenders get a more accurate picture of customer's financial situation to offer more profitable loan terms. This prototype allows aggregation , all accounts information in one screen and help in safe , secure and more automated user experience. ![Screenshot (139)](https://user-images.githubusercontent.com/46061852/127441864-a0c84a0a-b57e-4ea1-a0e5-e721b2c5b2f2.png)
